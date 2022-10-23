@@ -2,7 +2,7 @@
   "name": "sql-in-statements",
   "displayName": "List to SQL IN() Statement",
   "description": "This extension allows you to take a list of records separated by a line and turn it into a SQL IN() statement.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -14,7 +14,7 @@
     "Formatters"
   ],
   "keywords":[
-    "SQL","SQL IN", "IN Statement", "IN", "T-SQL"
+    "SQL","SQL IN", "IN Statement", "IN", "T-SQL", "IN()"
   ],
   "icon": "logo.png",
   "galleryBanner": {
