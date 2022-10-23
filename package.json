@@ -11,7 +11,10 @@
   },
   "publisher": "edwardpcharles",
   "categories": [
-    "Other"
+    "Formatters"
+  ],
+  "keywords":[
+    "SQL","SQL IN", "IN Statement", "IN", "T-SQL"
   ],
   "icon": "logo.png",
   "galleryBanner": {
