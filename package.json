@@ -30,6 +30,10 @@
       }
     ]    
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edwardpcharles/sql-in-statements.git"
+  },
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
