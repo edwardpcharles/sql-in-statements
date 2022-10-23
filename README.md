@@ -2,7 +2,7 @@
 
 This is the README for the extension "sql-in-statements". I will go through and update this after I have been able to publish the extension!
 
-# How To Use
+# How To Use:
 1. Create a new editor window
 2. Paste a list seperated by new lines
 3. highlight the items in the list you want in the in statement
@@ -10,6 +10,9 @@ This is the README for the extension "sql-in-statements". I will go through and 
 5. Type: `SQL IN() Statement`
 6. Choose `with Quotes` or `without quotes`
 
+# Creating a IN() Statement with Quotes:
 ![SQL IN Statement with Quotes](With_Quotes.gif)
+
+# Creating a IN() Statement without Quotes:
 
 **Enjoy!**
