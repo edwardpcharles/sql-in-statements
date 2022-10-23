@@ -1,7 +1,7 @@
 {
   "name": "sql-in-statements",
   "displayName": "List to SQL IN() Statement",
-  "description": "This extension takes a selected list pasted in the editor and replaces it with an SQL IN() statement with or without single quotes.",
+  "description": "This extension allows you to take a list of records separated by a line and turn it into a SQL IN() statement.",
   "version": "0.0.3",
   "engines": {
     "vscode": "^1.72.0"
