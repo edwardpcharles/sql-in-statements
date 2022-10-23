@@ -1,4 +1,4 @@
-# List to SQL IN() Statement -  README:
+# List to SQL IN() Statement:
 One of the most frequent requests I get from stakeholders is to check the status of fifty-ish to a couple of thousand records in our DB. To do this, I am often faced with a choice:
 1. either load the records into a table - which creates a one-time use table 
 2. spend the time formatting a super long IN() statement
